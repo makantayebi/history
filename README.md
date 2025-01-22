@@ -1,2 +1,251 @@
 # history
 Timeline of important historical events
+
+```
+2024-11-14    Ahoo Daryaei responded in protest by removing her clothes
+2024-11-13    Kianush Sanjari died
+2024-11-05    2024 United States presidential election (Trump vs Kamala)
+2024-10-16    Yahya Sinwar died
+2024-09-27    Hassan Nasrallah died
+2024-07-31    Ismail Haniyeh died
+2024-06-28    2024 Iranian presidential election 1403 (Pezeshkian vs Jalili)
+2024-05-19    Ebrahim Raisi died
+2023-10-07    October 7 Hamas-led attack on Israel
+2022-09-28    Baraye song by Shervin Hajipour released
+2022-09-20    Nika Shakarami died
+2022-09-16    Mahsa Amini protests
+2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
+2020-11-03    2020 United States presidential election (Biden vs Trump)
+2020-03-11    COVID-19 pandemic begin
+2020-01-30    COVID-19 outbreak
+2020-01-08    Ukraine International Airlines Flight 752 shot down
+2020-01-03    Qasem Kotlet died
+2019-11-16    2019 Internet blackout in Iran
+2019-11-16    Mahshahr massacre
+2019-11-15    Bloody Aban 98
+2018-02-22    Maryam Shariatmadari protest
+2018-02-15    Azam Jangravi protest
+2017-12-27    Vida Movahed removed her headscarf and stood on a utility box
+2017-05-19    2017 Iranian presidential election 1396 (Rouhani vs Raisi)
+2016-11-08    2016 United States presidential election (Trump vs Hillary)
+2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
+2012-11-06    2012 United States presidential election (Obama vs Romney)
+2011-05-02    Osama bin Laden died
+2010-06       Stuxnet discovered
+2009-06-12    2009 Iranian presidential election 1388 (Ahmadinejad vs Mousavi)
+2009-01-09    Bitcoin initial release
+2008-11-04    2008 United States presidential election (Obama vs McCain)
+2008-09-15    Lehman Brothers filed for bankruptcy
+2005-06-17    2005 Iranian presidential election 1384 (Ahmadinejad vs Rafsanjani)
+2004-11-02    2004 United States presidential election (Bush vs Kerry)
+2003-03-20    2003 invasion of Iraq
+2001-09-11    September 11 attacks
+2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
+2000-11-07    2000 United States presidential election (Bush vs Al Gore)
+1999-07-07    1999 Iranian student protests 1378 (18th of Tir)
+1997-05-23    1997 Iranian presidential election 1376 (2 Khordad) (Khatami vs Nategh-Nouri)
+1996-11-05    1996 United States presidential election (Clinton vs Dole)
+1993-06-11    1993 Iranian presidential election 1372 (Rafsanjani vs Tavakkoli)
+1992-11-03    1992 United States presidential election (Clinton vs George H. W. Bush)
+1992-08-07    Fereydoun Farrokhzad died
+1991-12-26    Cold War end
+1989-11-09    Berlin Wall destruction
+1989-10-02    George Hotz birthday
+1989-07-28    1989 Iranian presidential election 1368 (Rafsanjani vs Sheibani)
+1989-06-03    1989 Tiananmen Square Massacre
+1989-06-03    Khomeini died
+1988-11-08    1988 United States presidential election (George H. W. Bush vs Dukakis)
+1988-08-20    Iran–Iraq War ended
+1988-07       1988 executions of Iranian political prisoners
+1988-07-03    Iran Air Flight 655 shot down
+1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
+1984-11-06    1984 United States presidential election (Reagan vs Mondale)
+1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
+1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
+1981-01-20    Iran hostage crisis end
+1980-11-04    1980 United States presidential election (Reagan vs Carter)
+1980-09-22    Iraqi invasion of Iran
+1980-07-27    Shah Mohammad Reza Pahlavi dies in Cairo, Egypt, after a cancer operation
+1980-04-24    Operation Eagle Claw (Tabas) failed
+1980-03-25    Shah Mohammad Reza Pahlavi returns to Egypt
+1980-01-25    1980 Iranian presidential election (Banisadr vs Madani)
+1979-12-15    Shah Pahlavi leaves the U.S. for Panama
+1979-11-06    Mehdi Bazargan's cabinet resigns
+1979-11-04    Iran hostage crisis begin
+1979-10-22    Shah Pahlavi arrives in the United States for cancer treatment
+1979-02-01    Khomeini returns to Iran from France after fifteen years of exile
+1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
+1976-11-02    1976 United States presidential election (Carter vs Ford)
+1975-04-30    Vietnam War end
+1972-11-07    1972 United States presidential election (Nixon vs McGovern)
+1971-08-15    Nixon ends convertibility of U.S. dollars to gold and announces wage/price controls
+1971-06-28    Elon Musk birthday
+1969-12-28    Linus Torvalds birthday
+1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
+1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
+1964-01-12    Jeff Bezos birthday
+1963-11-22    John F. Kennedy assassinated
+1961-08-13    Berlin Wall construction
+1960-11-08    1960 United States presidential election (Kennedy vs Nixon)
+1957-12-04    Eric S. Raymond birthday
+1956-11-06    1956 United States presidential election (Eisenhower vs Stevenson)
+1955-11-01    Vietnam War begin
+1955-10-28    Bill Gates birthday
+1953-08-19    1953 Iranian coup d'état
+1953-03-16    Richard Stallman birthday
+1952-11-04    1952 United States presidential election (Eisenhower vs Stevenson)
+1950-08-11    Steve Wozniak birthday
+1948-11-02    1948 United States presidential election (Truman vs Dewey)
+1947-03-12    Cold War begin
+1946-11       Iran crisis of 1946
+1945-09-02    World War II (end)
+1945-08-09    Atomic bombings of Nagasaki
+1945-08-06    Atomic bombings of Hiroshima
+1945-04-30    Adolf Hitler died
+1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
+1944-07-26    Reza Shah Pahlavi died
+1942-01-08    Stephen Hawking birthday
+1941-09-16    Reza Shah Pahlavi of Iran abdicated in favor of his son, Mohammad Reza Pahlavi
+1941-08-25    Anglo-Soviet invasion of Iran
+1941-02-07    Leslie Lamport birthday
+1940-11-05    1940 United States presidential election (Roosevelt vs Willkie)
+1939-09-01    World War II (begin)
+1938-01-10    Donald Knuth birthday
+1936-11-03    1936 United States presidential election (Roosevelt vs Landon)
+1936-10-07    Fereydoun Farrokhzad birthday
+1935-03-21    Reza Shah changed the name of the country from Persia to Iran
+1934          University of Tehran established
+1932-11-08    1932 United States presidential election (Roosevelt vs Hoover)
+1930-08-30    Warren Buffett birthday
+1930-05-11    Edsger W. Dijkstra birthday
+1928-11-06    1928 United States presidential election (Hoover vs Smith)
+1928-06-13    John Forbes Nash Jr. birthday
+1927-09-04    John McCarthy birthday
+1925-12-15    Reza Pahlavi officially crowned as the Shah of Iran
+1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
+1920-04       1918 Spanish flu end
+1919-10-26    Mohammad Reza Pahlavi birthday
+1918-11-11    World War I (end)
+1918-05-11    Richard Feynman birthday
+1918-02       1918 Spanish flu begin
+1917-04-02    United States declaration of war on Germany
+1914-08-04    United Kingdom declaration of war upon Germany
+1914-07-28    World War I (begin)
+1914-06-28    Archduke Franz Ferdinand assassinated
+1913-11-07    Albert Camus birthday
+1912-06-23    Alan Turing birthday
+1908-04-01    Abraham Maslow birthday
+1903-12-28    John von Neumann birthday
+1903-02-17    Sadegh Hedayat birthday
+1901-04-13    Jacques Lacan birthday
+1896-05-01    Naser al-Din Shah assassinated
+1889-04-20    Adolf Hitler birthday
+1883-07-03    Franz Kafka birthday
+1878-03-15    Reza Shah Pahlavi birthday
+1879-03-14    Albert Einstein birthday
+1878-03-15    Reza Shah birthday
+1874-11-30    Winston Churchill birthday
+1867-11-07    Marie Curie birthday 
+1864-11-08    1864 United States presidential election (Abraham Lincoln vs McClellan)
+1863-07-30    Henry Ford birthday
+1860-11-06    1860 United States presidential election (Abraham Lincoln vs Breckinridge)
+1856-07-10    Nikola Tesla birthday
+1856-05-06    Sigmund Freud birthday
+1851          Dar ul-Funun established
+1847-02-11    Thomas Edison birthday
+1844-10-15    Friedrich Nietzsche birthday
+1844-05-23    `Abdu'l-Bahá birthday
+1835-11-25    Andrew Carnegie birthday
+1828-09-09    Leo Tolstoy birthday
+1826-09-17    Bernhard Riemann birthday
+1821-11-11    Fyodor Dostoevsky birthday
+1819-10-20    The Báb birthday
+1818-05-05    Karl Marx birthday
+1817-11-12    Bahá'u'lláh birthday
+1815-11-02    George Boole birthday
+1809-02-12    Charles Darwin birthday
+1807-01-09    Amir Kabir birthday
+1799-06-06    Alexander Pushkin birthday
+1791-09-22    Michael Faraday birthday
+1777-04-30    Carl Friedrich Gauss birthday
+1772          1772–1773 Persian Plague
+1770-08-27    Georg Wilhelm Friedrich Hegel birthday
+1747-06-20    Nader Shah died
+1724-04-22    Immanuel Kant birthday
+1723          Adam Smith birthday
+1712-06-28    Jean-Jacques Rousseau birthday
+1707-04-15    Leonhard Euler birthday
+1706-01-17    Benjamin Franklin birthday
+1646-07-01    Gottfried Wilhelm Leibniz birthday
+1643-01-04    Isaac Newton birthday
+1632-08-29    John Locke birthday
+1564-04-23    William Shakespeare birthday
+1547-02-18    Sheikh Bahāʾi birthday
+1524-05-23    Shah Ismail I died
+1353          Black Death plague pandemic end
+1346          Black Death plague pandemic begin
+1315          Hafez birthday
+1210          Saadi Shirazi birthday
+1207-09-30    Rumi birthday
+1201-02-24    Nasir al-Din al-Tusi birthday
+1170          Leonardo Fibonacci birthday
+1048-05-18    Omar Khayyam birthday
+1141          Nizami Ganjavi birthday
+ 973-09-09    Al-Biruni birthday
+ 940          Ferdowsi birthday
+ 868          Muhammad al-Mahdi (12th Shia Imam) birthday
+ 859          Rudaki birthday
+ 844          Hasan al-Askari (11th Shia Imam) birthday
+ 828          Ali al-Hadi (10th Shia Imam) birthday
+ 811          Muhammad al-Jawad (9th Shia Imam) birthday
+ 780          Muhammad ibn Musa al-Khwarizmi birthday
+ 766          Ali al-Rida (8th Shia Imam) birthday
+ 745          Musa al-Kazim (7th Shia Imam) birthday
+ 702          Ja'far al-Sadiq (6th Shia Imam) birthday
+ 680-10-10    Battle of Karbala
+ 676          Muhammad al-Baqir (5th Shia Imam) birthday
+ 661-01-28    Ali died
+ 658          Ali al-Sajjad (4th Shia Imam) birthday
+ 656-06-17    Uthman died
+ 651          Yazdegerd III (last Sasanian King of Kings) died
+ 644-11-06    Umar died
+ 636-11-16    Battle of al-Qadisiyyah
+ 634-08-23    Abu Bakr died
+ 632-06-08    Muhammad died
+ 628-02-28    Khosrow II (Khosrow Parviz) executed
+ 627          Plague of Sheroe
+ 626          Husayn ibn Ali (3th Shia Imam) birthday
+ 625          Hasan ibn Ali (2nd Shia Imam) birthday
+ 624          Yazdegerd III birthday
+ 600          Ali ibn Abi Talib (1st Shia Imam) birthday
+ 570          Khosrow II birthday
+ 570          Muhammad birthday
+ 541          plague of Justinian
+ 540          Hormizd IV birthday
+ 512          Khosrow I birthday
+ 473          Kavad I birthday
+ 400          Bahram V birthday
+ 388          Shapur III died
+ 383          Ardashir II died
+ 379          Shapur II died
+ 309          Hormizd II died
+ 309          Adur Narseh died
+ 303          Narseh died
+ 242-02       Ardashir I (founder of the Persian Sasanian Empire) died
+  -5          Jesus Christ
+-287          Archimedes
+-325          Euclid
+-384          Aristotle
+-428          Plato
+-470          Socrates
+-535          Heraclitus
+-550          Darius the Great
+-551          Confucius
+-570          Pythagoras
+-600          Cyrus the Great
+-1200         Zoroaster
+-1393         Moses
+-1800         Abraham
+```
+
+* https://en.wikipedia.org/wiki/List_of_monarchs_of_Iran
