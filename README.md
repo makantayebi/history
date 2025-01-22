@@ -212,6 +212,7 @@ Timeline of important historical events
 1857-03-04    Treaty of Paris (1857)
 1856-07-10    Nikola Tesla birthday
 1856-05-06    Sigmund Freud birthday
+1852-01-10    Amir Kabir executed
 1851          Dar ul-Funun established
 1847-02-11    Thomas Edison birthday
 1844-10-15    Friedrich Nietzsche birthday
