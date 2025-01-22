@@ -149,6 +149,7 @@ Timeline of important historical events
 1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
 1944-07-26    Reza Shah Pahlavi died
 1942-01-08    Stephen Hawking birthday
+1942          Iranian famine of 1942–1943
 1941-09-16    Reza Shah Pahlavi of Iran abdicated in favor of his son, Mohammad Reza Pahlavi
 1941-08-25    Anglo-Soviet invasion of Iran
 1941-02-07    Leslie Lamport birthday
@@ -176,8 +177,11 @@ Timeline of important historical events
 1919-10-26    Mohammad Reza Pahlavi birthday
 1918-11-11    World War I (end)
 1918-05-11    Richard Feynman birthday
+1918-03-03    Treaty of Brest-Litovsk
 1918-02       1918 Spanish flu begin
 1917-04-02    United States declaration of war on Germany
+1917          Persian famine of 1917–1919
+1915-12-27    Battle of Robat Karim
 1914-08-04    United Kingdom declaration of war upon Germany
 1914-07-28    World War I (begin)
 1914-06-28    Archduke Franz Ferdinand assassinated
@@ -186,6 +190,7 @@ Timeline of important historical events
 1909-04-14    Anglo-Persian Oil Company founded
 1908-05-26    William Knox D'Arcy, a British-Australian, discover oil in southwestern Persia
 1908-04-01    Abraham Maslow birthday
+1907-08-31    Anglo-Russian Convention of 1907
 1906-08-05    Constitutional monarchy established by Mozaffar ad-Din Shah Qajar
 1903-12-28    John von Neumann birthday
 1903-02-17    Sadegh Hedayat birthday
@@ -199,6 +204,7 @@ Timeline of important historical events
 1878-03-15    Reza Shah birthday
 1874-11-30    Winston Churchill birthday
 1872          Reuter concession
+1870          Persian famine of 1870–1872
 1867-11-07    Marie Curie birthday 
 1864-11-08    1864 United States presidential election (Abraham Lincoln vs McClellan)
 1863-07-30    Henry Ford birthday
