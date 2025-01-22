@@ -98,9 +98,11 @@ Timeline of important historical events
 1971-09-11    Nikita Khrushchev died
 1971-08-15    Nixon ends convertibility of U.S. dollars to gold and announces wage/price controls
 1971-06-28    Elon Musk birthday
+1970-09-28    Gamal Abdel Nasser died
 1969-12-28    Linus Torvalds birthday
 1969-09-09    Jalal Al-e-Ahmad died
 1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
+1967-03-05    Mohammad Mosaddegh died
 1967-02-13    Forugh Farrokhzad died
 1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
 1964-01-12    Jeff Bezos birthday
@@ -110,17 +112,31 @@ Timeline of important historical events
 1960-11-08    1960 United States presidential election (Kennedy vs Nixon)
 1957-12-04    Eric S. Raymond birthday
 1956-11-06    1956 United States presidential election (Eisenhower vs Stevenson)
+1956-07-30    Nasser announces the nationalisation of the Suez Canal
 1955-11-01    Vietnam War begin
 1955-10-28    Bill Gates birthday
+1954-12-16    Anglo-Iranian Oil Company (AIOC) became "The British Petroleum Company"
+1954-11-10    Hossein Fatemi executed
+1954-03-13    Hossein Fatemi arrested
+1954-06-07    Alan Turing died
+1953-12-21    Mosaddegh was sentenced three years' solitary confinement
 1953-08-19    1953 Iranian coup d'état
+1953-08-18    The shah and queen arrived in Rome
+1953-08-16    Shah Mohammed Reza Pahlevi and Queen Soraya fled to Iraq
 1953-03-16    Richard Stallman birthday
 1953-03-05    Joseph Stalin died
 1952-11-04    1952 United States presidential election (Eisenhower vs Stevenson)
 1952-10-07    Vladimir Putin birthday
+1952-10       Mossadegh expelled the British embassy
+1952-07-22    Anglo-Iranian Oil Co. case closed
+1951-10       Mossadegh paid a visit to the United States
 1951-05-26    UK took Iran to the ICJ
 1951-04-09    Sadegh Hedayat died
 1951-03-15    Nationalization of the Iranian oil industry
+1951-03-07    Prime Minister Haj Ali Razmara was assassinated by the Fada'iyan-e Islam
 1950-08-11    Steve Wozniak birthday
+1949-11-12    National Front party founded
+1949-07-17    Gass-Gulshaiyan Supplemental Oil Agreement
 1948-11-02    1948 United States presidential election (Truman vs Dewey)
 1947-03-12    Cold War begin
 1946-11       Iran crisis of 1946
@@ -129,6 +145,7 @@ Timeline of important historical events
 1945-08-09    Atomic bombing of Nagasaki
 1945-08-06    Atomic bombing of Hiroshima
 1945-04-30    Adolf Hitler died
+1945-04-28    Benito Mussolini died
 1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
 1944-07-26    Reza Shah Pahlavi died
 1942-01-08    Stephen Hawking birthday
@@ -142,11 +159,15 @@ Timeline of important historical events
 1936-10-07    Fereydoun Farrokhzad birthday
 1935-03-21    Reza Shah changed the name of the country from Persia to Iran
 1934          University of Tehran established
+1933-08-25    Haavara Agreement
+1933-05-29    California-Arabian Standard Oil founded
+1933-04       1933 agreement of Anglo-Persian Oil Company with Reza Shah
 1932-11-08    1932 United States presidential election (Roosevelt vs Hoover)
 1930-08-30    Warren Buffett birthday
 1930-05-11    Edsger W. Dijkstra birthday
 1928-11-06    1928 United States presidential election (Hoover vs Smith)
 1928-06-13    John Forbes Nash Jr. birthday
+1927-10-14    Turkish Petroleum Company struck oil in Iraq
 1927-09-04    John McCarthy birthday
 1925-12-15    Reza Pahlavi officially crowned as the Shah of Iran
 1924-01-21    Vladimir Lenin died
@@ -162,7 +183,10 @@ Timeline of important historical events
 1914-06-28    Archduke Franz Ferdinand assassinated
 1913-11-07    Albert Camus birthday
 1912-06-23    Alan Turing birthday
+1909-04-14    Anglo-Persian Oil Company founded
+1908-05-26    William Knox D'Arcy, a British-Australian, discover oil in southwestern Persia
 1908-04-01    Abraham Maslow birthday
+1906-08-05    Constitutional monarchy established by Mozaffar ad-Din Shah Qajar
 1903-12-28    John von Neumann birthday
 1903-02-17    Sadegh Hedayat birthday
 1901-04-13    Jacques Lacan birthday
@@ -174,10 +198,12 @@ Timeline of important historical events
 1879-03-14    Albert Einstein birthday
 1878-03-15    Reza Shah birthday
 1874-11-30    Winston Churchill birthday
+1872          Reuter concession
 1867-11-07    Marie Curie birthday 
 1864-11-08    1864 United States presidential election (Abraham Lincoln vs McClellan)
 1863-07-30    Henry Ford birthday
 1860-11-06    1860 United States presidential election (Abraham Lincoln vs Breckinridge)
+1857-03-04    Treaty of Paris (1857)
 1856-07-10    Nikola Tesla birthday
 1856-05-06    Sigmund Freud birthday
 1851          Dar ul-Funun established
@@ -186,12 +212,14 @@ Timeline of important historical events
 1844-05-23    `Abdu'l-Bahá birthday
 1835-11-25    Andrew Carnegie birthday
 1828-09-09    Leo Tolstoy birthday
+1828-02-22    Treaty of Turkmenchay
 1826-09-17    Bernhard Riemann birthday
 1821-11-11    Fyodor Dostoevsky birthday
 1819-10-20    The Báb birthday
 1818-05-05    Karl Marx birthday
 1817-11-12    Bahá'u'lláh birthday
 1815-11-02    George Boole birthday
+1813-10-24    Treaty of Gulistan
 1809-02-12    Charles Darwin birthday
 1807-01-09    Amir Kabir birthday
 1799-06-06    Alexander Pushkin birthday
