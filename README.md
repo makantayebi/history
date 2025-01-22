@@ -2,6 +2,8 @@
 Timeline of important historical events
 
 ```
+2025-01-18    2025 assassination of Iranian Supreme Court judges
+2024-12-08    Fall of the Assad regime
 2024-11-14    Ahoo Daryaei responded in protest by removing her clothes
 2024-11-13    Kianush Sanjari died
 2024-11-05    2024 United States presidential election (Trump vs Kamala)
@@ -10,11 +12,15 @@ Timeline of important historical events
 2024-07-31    Ismail Haniyeh died
 2024-06-28    2024 Iranian presidential election 1403 (Pezeshkian vs Jalili)
 2024-05-19    Ebrahim Raisi died
+2024-01-03    2024 Kerman bombings
 2023-10-07    October 7 Hamas-led attack on Israel
+2022-10-26    2022 Shah Cheragh attack
 2022-09-28    Baraye song by Shervin Hajipour released
 2022-09-20    Nika Shakarami died
-2022-09-16    Mahsa Amini protests
+2022-09-16    Mahsa (Jina) Amini died
+2022-04-05    Imam Reza shrine stabbings
 2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
+2020-11-27    Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
 2020-03-11    COVID-19 pandemic begin
 2020-01-30    COVID-19 outbreak
@@ -23,19 +29,23 @@ Timeline of important historical events
 2019-11-16    2019 Internet blackout in Iran
 2019-11-16    Mahshahr massacre
 2019-11-15    Bloody Aban 98
+2019-04-27    Behrooz Hajilu incident
 2018-02-22    Maryam Shariatmadari protest
 2018-02-15    Azam Jangravi protest
 2017-12-27    Vida Movahed removed her headscarf and stood on a utility box
 2017-05-19    2017 Iranian presidential election 1396 (Rouhani vs Raisi)
 2016-11-08    2016 United States presidential election (Trump vs Hillary)
+2016-01-16    JCPOA took effect
 2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2011-05-02    Osama bin Laden died
 2010-06       Stuxnet discovered
+2010-02-23    Abdolmalek Rigi arrested
 2009-06-12    2009 Iranian presidential election 1388 (Ahmadinejad vs Mousavi)
 2009-01-09    Bitcoin initial release
 2008-11-04    2008 United States presidential election (Obama vs McCain)
 2008-09-15    Lehman Brothers filed for bankruptcy
+2008-04-12    Shiraz bombing killed 14
 2005-06-17    2005 Iranian presidential election 1384 (Ahmadinejad vs Rafsanjani)
 2004-11-02    2004 United States presidential election (Bush vs Kerry)
 2003-03-20    2003 invasion of Iraq
@@ -43,11 +53,13 @@ Timeline of important historical events
 2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
 2000-11-07    2000 United States presidential election (Bush vs Al Gore)
 1999-07-07    1999 Iranian student protests 1378 (18th of Tir)
+1998-08-08    1998 killing of Iranian diplomats in Afghanistan
 1997-05-23    1997 Iranian presidential election 1376 (2 Khordad) (Khatami vs Nategh-Nouri)
 1996-11-05    1996 United States presidential election (Clinton vs Dole)
+1994-06-20    Imam Reza shrine bombing
 1993-06-11    1993 Iranian presidential election 1372 (Rafsanjani vs Tavakkoli)
 1992-11-03    1992 United States presidential election (Clinton vs George H. W. Bush)
-1992-08-07    Fereydoun Farrokhzad died
+1992-08-07    Fereydoun Farrokhzad assassinated
 1991-12-26    Cold War end
 1989-11-09    Berlin Wall destruction
 1989-10-02    George Hotz birthday
@@ -61,7 +73,9 @@ Timeline of important historical events
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
+1981-08-30    1981 Iranian Prime Minister's office bombing
 1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
+1981-06-28    Haft-e Tir bombing
 1981-01-20    Iran hostage crisis end
 1980-11-04    1980 United States presidential election (Reagan vs Carter)
 1980-09-22    Iraqi invasion of Iran
@@ -73,8 +87,10 @@ Timeline of important historical events
 1979-11-06    Mehdi Bazargan's cabinet resigns
 1979-11-04    Iran hostage crisis begin
 1979-10-22    Shah Pahlavi arrives in the United States for cancer treatment
+1979-09-09    Taleghani died
 1979-02-01    Khomeini returns to Iran from France after fifteen years of exile
 1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
+1978-08-19    Cinema Rex fire
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1975-04-30    Vietnam War end
 1972-11-07    1972 United States presidential election (Nixon vs McGovern)
@@ -85,6 +101,7 @@ Timeline of important historical events
 1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
 1964-01-12    Jeff Bezos birthday
 1963-11-22    John F. Kennedy assassinated
+1963-01-26    The White Revolution or the Shah and People Revolution
 1961-08-13    Berlin Wall construction
 1960-11-08    1960 United States presidential election (Kennedy vs Nixon)
 1957-12-04    Eric S. Raymond birthday
@@ -98,6 +115,7 @@ Timeline of important historical events
 1948-11-02    1948 United States presidential election (Truman vs Dewey)
 1947-03-12    Cold War begin
 1946-11       Iran crisis of 1946
+1946-03-11    Ahmad Kasravi assassinated
 1945-09-02    World War II (end)
 1945-08-09    Atomic bombings of Nagasaki
 1945-08-06    Atomic bombings of Hiroshima
@@ -180,8 +198,12 @@ Timeline of important historical events
 1643-01-04    Isaac Newton birthday
 1632-08-29    John Locke birthday
 1564-04-23    William Shakespeare birthday
+1564-02-15    Galileo Galilei birthday
 1547-02-18    Sheikh Bahāʾi birthday
 1524-05-23    Shah Ismail I died
+1492-10-12    Christopher Columbus discovered the New World
+1473-02-19    Nicolaus Copernicus birthday
+1440          Invention the printing press
 1353          Black Death plague pandemic end
 1346          Black Death plague pandemic begin
 1315          Hafez birthday
@@ -223,6 +245,7 @@ Timeline of important historical events
  541          plague of Justinian
  540          Hormizd IV birthday
  512          Khosrow I birthday
+ 476          Fall of the Roman Empire
  473          Kavad I birthday
  400          Bahram V birthday
  388          Shapur III died
@@ -235,6 +258,7 @@ Timeline of important historical events
   -5          Jesus Christ
 -287          Archimedes
 -325          Euclid
+-336          Rise of Alexander the Great
 -384          Aristotle
 -428          Plato
 -470          Socrates
@@ -246,6 +270,7 @@ Timeline of important historical events
 -1200         Zoroaster
 -1393         Moses
 -1800         Abraham
+-3500         Invention of Writing
 ```
 
 * https://en.wikipedia.org/wiki/List_of_monarchs_of_Iran
