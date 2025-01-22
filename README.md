@@ -92,8 +92,10 @@ Timeline of important historical events
 1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
 1978-08-19    Cinema Rex fire
 1976-11-02    1976 United States presidential election (Carter vs Ford)
+1976-09-09    Mao Zedong died
 1975-04-30    Vietnam War end
 1972-11-07    1972 United States presidential election (Nixon vs McGovern)
+1971-09-11    Nikita Khrushchev died
 1971-08-15    Nixon ends convertibility of U.S. dollars to gold and announces wage/price controls
 1971-06-28    Elon Musk birthday
 1969-12-28    Linus Torvalds birthday
@@ -112,9 +114,12 @@ Timeline of important historical events
 1955-10-28    Bill Gates birthday
 1953-08-19    1953 Iranian coup d'état
 1953-03-16    Richard Stallman birthday
+1953-03-05    Joseph Stalin died
 1952-11-04    1952 United States presidential election (Eisenhower vs Stevenson)
 1952-10-07    Vladimir Putin birthday
+1951-05-26    UK took Iran to the ICJ
 1951-04-09    Sadegh Hedayat died
+1951-03-15    Nationalization of the Iranian oil industry
 1950-08-11    Steve Wozniak birthday
 1948-11-02    1948 United States presidential election (Truman vs Dewey)
 1947-03-12    Cold War begin
