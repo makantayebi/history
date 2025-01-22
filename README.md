@@ -97,7 +97,9 @@ Timeline of important historical events
 1971-08-15    Nixon ends convertibility of U.S. dollars to gold and announces wage/price controls
 1971-06-28    Elon Musk birthday
 1969-12-28    Linus Torvalds birthday
+1969-09-09    Jalal Al-e-Ahmad died
 1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
+1967-02-13    Forugh Farrokhzad died
 1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
 1964-01-12    Jeff Bezos birthday
 1963-11-22    John F. Kennedy assassinated
@@ -111,14 +113,16 @@ Timeline of important historical events
 1953-08-19    1953 Iranian coup d'état
 1953-03-16    Richard Stallman birthday
 1952-11-04    1952 United States presidential election (Eisenhower vs Stevenson)
+1952-10-07    Vladimir Putin birthday
+1951-04-09    Sadegh Hedayat died
 1950-08-11    Steve Wozniak birthday
 1948-11-02    1948 United States presidential election (Truman vs Dewey)
 1947-03-12    Cold War begin
 1946-11       Iran crisis of 1946
 1946-03-11    Ahmad Kasravi assassinated
 1945-09-02    World War II (end)
-1945-08-09    Atomic bombings of Nagasaki
-1945-08-06    Atomic bombings of Hiroshima
+1945-08-09    Atomic bombing of Nagasaki
+1945-08-06    Atomic bombing of Hiroshima
 1945-04-30    Adolf Hitler died
 1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
 1944-07-26    Reza Shah Pahlavi died
@@ -140,6 +144,7 @@ Timeline of important historical events
 1928-06-13    John Forbes Nash Jr. birthday
 1927-09-04    John McCarthy birthday
 1925-12-15    Reza Pahlavi officially crowned as the Shah of Iran
+1924-01-21    Vladimir Lenin died
 1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
 1920-04       1918 Spanish flu end
 1919-10-26    Mohammad Reza Pahlavi birthday
@@ -159,6 +164,7 @@ Timeline of important historical events
 1896-05-01    Naser al-Din Shah assassinated
 1889-04-20    Adolf Hitler birthday
 1883-07-03    Franz Kafka birthday
+1883-03-14    Karl Marx died
 1878-03-15    Reza Shah Pahlavi birthday
 1879-03-14    Albert Einstein birthday
 1878-03-15    Reza Shah birthday
