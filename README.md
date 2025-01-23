@@ -34,25 +34,33 @@ Timeline of important historical events
 2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
 2020-11-27    Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
+2020-10-08    Mohammad-Reza Shajarian died
 2020-03-11    COVID-19 pandemic begin
 2020-01-30    COVID-19 outbreak
-2020-01-08    Ukraine International Airlines Flight 752 shot down
+2020-01-08    Iran missile attacks on U.S. bases in Iraq and Ukraine Flight 752 shot down
 2020-01-03    Qasem Kotlet died
 2019-11-16    2019 Internet blackout in Iran
 2019-11-16    Mahshahr massacre
 2019-11-15    Bloody Aban 98
+2019-06-20    US drone shot down by Iran over the Strait of Hormuz
 2019-04-27    Behrooz Hajilu incident
+2018-05-08    Trump announced U.S. withdrawal from JCPOA
 2018-02-22    Maryam Shariatmadari protest
 2018-02-15    Azam Jangravi protest
 2017-12-27    Vida Movahed removed her headscarf and stood on a utility box
 2017-05-19    2017 Iranian presidential election 1396 (Rouhani vs Raisi)
+2017-01-08    Akbar Hashemi Rafsanjani died
 2016-11-08    2016 United States presidential election (Trump vs Hillary)
 2016-01-16    JCPOA took effect
+2015-09-30    Russian intervention in the Syrian civil war supporting the Assad regime
+2015-07-14    JCPOA signed
 2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2011-05-02    Osama bin Laden died
+2011-02-11    Overthrow of President Hosni Mubarak's 30-year rule in Egypt during the Arab Spring
 2010-06       Stuxnet discovered
 2010-02-23    Abdolmalek Rigi arrested
+2009-12-19    Hussein-Ali Montazeri died
 2009-06-20    Neda Agha-Soltan fatally shot
 2009-06-15    Sohrab Aarabi died
 2009-06-12    2009 Iranian presidential election 1388 (Ahmadinejad vs Mousavi)
@@ -64,6 +72,8 @@ Timeline of important historical events
 2004-11-02    2004 United States presidential election (Bush vs Kerry)
 2003-12-26    2003 Bam earthquake
 2003-03-20    2003 invasion of Iraq
+2002-08-14    Existence of two secret nuclear facilities at Natanz and Arak revealed
+2001-10-07    Operation Enduring Freedom begun in Afghanistan
 2001-09-11    September 11 attacks
 2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
 2000-11-07    2000 United States presidential election (Bush vs Al Gore)
@@ -112,6 +122,7 @@ Timeline of important historical events
 1979-09-09    Taleghani died
 1979-02-01    Khomeini returns to Iran from France after fifteen years of exile
 1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
+1978-08-31    Musa al-Sadr went missing
 1978-08-19    Cinema Rex fire
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1976-09-09    Mao Zedong died
