@@ -221,9 +221,8 @@ Timeline of important historical events
 1889-04-20    Adolf Hitler birthday
 1883-07-03    Franz Kafka birthday
 1883-03-14    Karl Marx died
-1878-03-15    Reza Shah Pahlavi birthday
 1879-03-14    Albert Einstein birthday
-1878-03-15    Reza Shah birthday
+1878-03-15    Reza Shah Pahlavi birthday
 1874-11-30    Winston Churchill birthday
 1872          Reuter concession
 1870          Persian famine of 1870–1872
