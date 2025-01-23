@@ -12,13 +12,25 @@ Timeline of important historical events
 2024-07-31    Ismail Haniyeh died
 2024-06-28    2024 Iranian presidential election 1403 (Pezeshkian vs Jalili)
 2024-05-19    Ebrahim Raisi died
+2024-01-23    Mohammad Ghobadlou executed
 2024-01-03    2024 Kerman bombings
 2023-10-07    October 7 Hamas-led attack on Israel
+2023-05-19    Saleh Mirhashemi and Majid Kazemi and Saeed Yaghoobi executed
+2023-01-07    Mohammad Mehdi Karami and Seyyed Mohammad Hosseini executed
+2022-12-12    Majidreza Rahnavard executed
+2022-12-08    Mohsen Shekari executed
+2022-11-16    Kian Pirfalak and Aylar Haghi died
+2022-10-30    Toomaj Salehi arrested
 2022-10-26    2022 Shah Cheragh attack
+2022-10-12    Asra Panahi died
+2022-10-02    Khodanur Lojei died
 2022-09-28    Baraye song by Shervin Hajipour released
-2022-09-20    Nika Shakarami died
+2022-09-23    Sarina Esmailzadeh died
+2022-09-21    Hadis Najafi died
+2022-09-20    Nika Shakarami and Minoo Majidi died
 2022-09-16    Mahsa (Jina) Amini died
 2022-04-05    Imam Reza shrine stabbings
+2021-09-12    Toomaj Salehi arrested
 2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
 2020-11-27    Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
@@ -41,6 +53,8 @@ Timeline of important historical events
 2011-05-02    Osama bin Laden died
 2010-06       Stuxnet discovered
 2010-02-23    Abdolmalek Rigi arrested
+2009-06-20    Neda Agha-Soltan fatally shot
+2009-06-15    Sohrab Aarabi died
 2009-06-12    2009 Iranian presidential election 1388 (Ahmadinejad vs Mousavi)
 2009-01-09    Bitcoin initial release
 2008-11-04    2008 United States presidential election (Obama vs McCain)
@@ -52,8 +66,14 @@ Timeline of important historical events
 2001-09-11    September 11 attacks
 2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
 2000-11-07    2000 United States presidential election (Bush vs Al Gore)
+2000-04-07    Iran After the Elections conference (Berlin Conference)
+2000-03-12    Saeed Hajjarian assassination attempt
+2000-02-18    2000 Iranian legislative election
 1999-07-07    1999 Iranian student protests 1378 (18th of Tir)
+1999-06-19    Saeed Emami died
+1998-11-22    Dariush Forouhar and Parvaneh Forouhar assassinated
 1998-08-08    1998 killing of Iranian diplomats in Afghanistan
+1998-04-04    Gholamhossein Karbaschi arrested
 1997-05-23    1997 Iranian presidential election 1376 (2 Khordad) (Khatami vs Nategh-Nouri)
 1996-11-05    1996 United States presidential election (Clinton vs Dole)
 1994-06-20    Imam Reza shrine bombing
@@ -61,6 +81,7 @@ Timeline of important historical events
 1992-11-03    1992 United States presidential election (Clinton vs George H. W. Bush)
 1992-08-07    Fereydoun Farrokhzad assassinated
 1991-12-26    Cold War end
+1991-08-06    Shapour Bakhtiar murdered
 1989-11-09    Berlin Wall destruction
 1989-10-02    George Hotz birthday
 1989-07-28    1989 Iranian presidential election 1368 (Rafsanjani vs Sheibani)
