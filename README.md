@@ -62,6 +62,7 @@ Timeline of important historical events
 2008-04-12    Shiraz bombing killed 14
 2005-06-17    2005 Iranian presidential election 1384 (Ahmadinejad vs Rafsanjani)
 2004-11-02    2004 United States presidential election (Bush vs Kerry)
+2003-12-26    2003 Bam earthquake
 2003-03-20    2003 invasion of Iraq
 2001-09-11    September 11 attacks
 2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
