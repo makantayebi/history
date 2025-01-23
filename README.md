@@ -181,6 +181,7 @@ Timeline of important historical events
 1945-04-28    Benito Mussolini died
 1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
 1944-07-26    Reza Shah Pahlavi died
+1944          Bretton Woods international monetary agreement
 1942-01-08    Stephen Hawking birthday
 1942          Iranian famine of 1942–1943
 1941-09-16    Reza Shah Pahlavi of Iran abdicated in favor of his son, Mohammad Reza Pahlavi
@@ -192,13 +193,18 @@ Timeline of important historical events
 1936-11-03    1936 United States presidential election (Roosevelt vs Landon)
 1936-10-07    Fereydoun Farrokhzad birthday
 1935-03-21    Reza Shah changed the name of the country from Persia to Iran
+1934-01-30    Gold Reserve Act
 1934          University of Tehran established
 1933-08-25    Haavara Agreement
 1933-05-29    California-Arabian Standard Oil founded
+1933-04-05    Executive Order 6102 forbidding the hoarding of gold in US
 1933-04       1933 agreement of Anglo-Persian Oil Company with Reza Shah
 1932-11-08    1932 United States presidential election (Roosevelt vs Hoover)
+1931          European banking crisis of 1931
 1930-08-30    Warren Buffett birthday
 1930-05-11    Edsger W. Dijkstra birthday
+1930          Panic of 1930
+1929-10       Wall Street crash of 1929
 1928-11-06    1928 United States presidential election (Hoover vs Smith)
 1928-06-13    John Forbes Nash Jr. birthday
 1927-10-14    Turkish Petroleum Company struck oil in Iraq
@@ -208,6 +214,7 @@ Timeline of important historical events
 1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
 1920-04       1918 Spanish flu end
 1919-10-26    Mohammad Reza Pahlavi birthday
+1919-06-28    Treaty of Versailles
 1918-11-11    World War I (end)
 1918-05-11    Richard Feynman birthday
 1918-03-03    Treaty of Brest-Litovsk
@@ -218,12 +225,15 @@ Timeline of important historical events
 1914-08-04    United Kingdom declaration of war upon Germany
 1914-07-28    World War I (begin)
 1914-06-28    Archduke Franz Ferdinand assassinated
+1913-12-23    Federal Reserve Act was passed
 1913-11-07    Albert Camus birthday
+1912-11-05    1912 United States presidential election (Wilson vs Taft)
 1912-06-23    Alan Turing birthday
 1909-04-14    Anglo-Persian Oil Company founded
 1908-05-26    William Knox D'Arcy, a British-Australian, discover oil in southwestern Persia
 1908-04-01    Abraham Maslow birthday
 1907-08-31    Anglo-Russian Convention of 1907
+1907          1907 Bankers' Panic or Knickerbocker Crisis
 1906-08-05    Constitutional monarchy established by Mozaffar ad-Din Shah Qajar
 1903-12-28    John von Neumann birthday
 1903-02-17    Sadegh Hedayat birthday
@@ -237,6 +247,7 @@ Timeline of important historical events
 1874-11-30    Winston Churchill birthday
 1872          Reuter concession
 1870          Persian famine of 1870–1872
+1869-09-24    Black Friday gold panic
 1867-11-07    Marie Curie birthday 
 1864-11-08    1864 United States presidential election (Abraham Lincoln vs McClellan)
 1863-07-30    Henry Ford birthday
