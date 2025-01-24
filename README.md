@@ -14,6 +14,7 @@ Timeline of important historical events
 2024-05-19    Ebrahim Raisi died
 2024-01-23    Mohammad Ghobadlou executed
 2024-01-03    2024 Kerman bombings
+2023-11-29    Henry Kissinger died
 2023-10-07    October 7 Hamas-led attack on Israel
 2023-05-19    Saleh Mirhashemi and Majid Kazemi and Saeed Yaghoobi executed
 2023-01-07    Mohammad Mehdi Karami and Seyyed Mohammad Hosseini executed
