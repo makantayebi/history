@@ -128,6 +128,8 @@ Timeline of important historical events
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1976-09-09    Mao Zedong died
 1975-04-30    Vietnam War end
+1974-08-08    President Nixon resigned, Gerald Ford assumed the presidency
+1973-09-11    1973 Chilean coup d'état
 1972-11-07    1972 United States presidential election (Nixon vs McGovern)
 1971-09-11    Nikita Khrushchev died
 1971-08-15    Nixon ends convertibility of U.S. dollars to gold and announces wage/price controls
@@ -191,6 +193,7 @@ Timeline of important historical events
 1940-11-05    1940 United States presidential election (Roosevelt vs Willkie)
 1939-09-01    World War II (begin)
 1938-01-10    Donald Knuth birthday
+1937-05-23    John D. Rockefeller died
 1936-11-03    1936 United States presidential election (Roosevelt vs Landon)
 1936-10-07    Fereydoun Farrokhzad birthday
 1935-03-21    Reza Shah changed the name of the country from Persia to Iran
@@ -364,3 +367,4 @@ Timeline of important historical events
 ```
 
 * https://en.wikipedia.org/wiki/List_of_monarchs_of_Iran
+* https://en.wikipedia.org/wiki/List_of_richest_Americans_in_history
