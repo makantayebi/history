@@ -2,7 +2,9 @@
 Timeline of important historical events
 
 ```
+2025-01-20    DeepSeek-R1 launched
 2025-01-18    2025 assassination of Iranian Supreme Court judges
+2024-12-26    DeepSeek-V3 launched
 2024-12-08    Fall of the Assad regime
 2024-11-14    Ahoo Daryaei responded in protest by removing her clothes
 2024-11-13    Kianush Sanjari died
@@ -12,6 +14,7 @@ Timeline of important historical events
 2024-07-31    Ismail Haniyeh died
 2024-06-28    2024 Iranian presidential election 1403 (Pezeshkian vs Jalili)
 2024-05-19    Ebrahim Raisi died
+2024-05-13    GPT-4o launched
 2024-01-23    Mohammad Ghobadlou executed
 2024-01-03    2024 Kerman bombings
 2023-11-29    Henry Kissinger died
@@ -33,7 +36,7 @@ Timeline of important historical events
 2022-04-05    Imam Reza shrine stabbings
 2021-09-12    Toomaj Salehi arrested
 2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
-2020-11-27    Fakhrizadeh died
+2020-11-27    Mohsen Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
 2020-10-08    Mohammad-Reza Shajarian died
 2020-03-11    COVID-19 pandemic begin
@@ -213,6 +216,7 @@ Timeline of important historical events
 1928-06-13    John Forbes Nash Jr. birthday
 1927-10-14    Turkish Petroleum Company struck oil in Iraq
 1927-09-04    John McCarthy birthday
+1827-03-26    Ludwig van Beethoven died in Vienna #music
 1925-12-15    Reza Pahlavi officially crowned as the Shah of Iran
 1924-01-21    Vladimir Lenin died
 1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
@@ -277,13 +281,16 @@ Timeline of important historical events
 1809-02-12    Charles Darwin birthday
 1807-01-09    Amir Kabir birthday
 1799-06-06    Alexander Pushkin birthday
+1791-12-05    Wolfgang Amadeus Mozart died in Vienna #music
 1791-09-22    Michael Faraday birthday
 1777-04-30    Carl Friedrich Gauss birthday
 1772          1772–1773 Persian Plague
 1770-08-27    Georg Wilhelm Friedrich Hegel birthday
+1750-07-28    Johann Sebastian Bach died in Leipzig #music
 1747-06-20    Nader Shah died
 1724-04-22    Immanuel Kant birthday
 1723          Adam Smith birthday
+1761          Faber-Castell AG founded 
 1712-06-28    Jean-Jacques Rousseau birthday
 1707-04-15    Leonhard Euler birthday
 1706-01-17    Benjamin Franklin birthday
@@ -296,7 +303,7 @@ Timeline of important historical events
 1524-05-23    Shah Ismail I died
 1492-10-12    Christopher Columbus discovered the New World
 1473-02-19    Nicolaus Copernicus birthday
-1440          Invention the printing press
+1440          Invention of the printing press
 1353          Black Death plague pandemic end
 1346          Black Death plague pandemic begin
 1315          Hafez birthday
