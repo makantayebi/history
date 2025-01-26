@@ -273,6 +273,7 @@ Timeline of important historical events
 1828-02-22    Treaty of Turkmenchay
 1826-09-17    Bernhard Riemann birthday
 1821-11-11    Fyodor Dostoevsky birthday
+1821-05-05    Napoleon Bonaparte died
 1819-10-20    The Báb birthday
 1818-05-05    Karl Marx birthday
 1817-11-12    Bahá'u'lláh birthday
