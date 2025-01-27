@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//makantayebi.github.io/history/static/css/main.f855e6bc.css",
+    "main.js": "//makantayebi.github.io/history/static/js/main.4d365f35.js",
+    "static/js/488.7231a9a9.chunk.js": "//makantayebi.github.io/history/static/js/488.7231a9a9.chunk.js",
+    "static/media/logo.svg": "//makantayebi.github.io/history/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//makantayebi.github.io/history/index.html",
+    "main.f855e6bc.css.map": "//makantayebi.github.io/history/static/css/main.f855e6bc.css.map",
+    "main.4d365f35.js.map": "//makantayebi.github.io/history/static/js/main.4d365f35.js.map",
+    "488.7231a9a9.chunk.js.map": "//makantayebi.github.io/history/static/js/488.7231a9a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4d365f35.js"
+  ]
+}
