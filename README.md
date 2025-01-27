@@ -78,6 +78,7 @@ Timeline of important historical events
 2003-12-26    2003 Bam earthquake
 2003-03-20    2003 invasion of Iraq
 2002-08-14    Existence of two secret nuclear facilities at Natanz and Arak revealed
+2001-12-02    Enron filed for bankruptcy
 2001-10-07    Operation Enduring Freedom begun in Afghanistan
 2001-09-11    September 11 attacks
 2001-06-08    2001 Iranian presidential election 1380 (Khatami vs Tavakkoli)
@@ -166,7 +167,7 @@ Timeline of important historical events
 1954-03-13    Hossein Fatemi arrested
 1954-06-07    Alan Turing died
 1953-12-21    Mosaddegh was sentenced three years' solitary confinement
-1953-08-19    1953 Iranian coup d'état
+1953-08-19    1953 Iranian coup d'état (28 Mordad 1332)
 1953-08-18    The shah and queen arrived in Rome
 1953-08-16    Shah Mohammed Reza Pahlevi and Queen Soraya fled to Iraq
 1953-03-16    Richard Stallman birthday
