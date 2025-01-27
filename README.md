@@ -39,6 +39,7 @@ Timeline of important historical events
 2020-11-27    Mohsen Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
 2020-10-08    Mohammad-Reza Shajarian died
+2020-04-10    Ali Younesi and Amirhossein Moradi arrested
 2020-03-11    COVID-19 pandemic begin
 2020-01-30    COVID-19 outbreak
 2020-01-08    Iran missile attacks on U.S. bases in Iraq and Ukraine Flight 752 shot down
@@ -60,6 +61,7 @@ Timeline of important historical events
 2015-07-14    JCPOA signed
 2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
 2012-11-06    2012 United States presidential election (Obama vs Romney)
+2012-05-28    Flame (malware) discovered
 2011-05-02    Osama bin Laden died
 2011-03-11    Fukushima nuclear accident
 2011-02-11    Overthrow of President Hosni Mubarak's 30-year rule in Egypt during the Arab Spring
@@ -88,22 +90,36 @@ Timeline of important historical events
 2000-02-18    2000 Iranian legislative election
 1999-07-07    1999 Iranian student protests 1378 (18th of Tir)
 1999-06-19    Saeed Emami died
-1998-11-22    Dariush Forouhar and Parvaneh Forouhar assassinated
+1999-04-10    Ali Sayad Shirazi assassinated
+1998-12-08    Mohammad-Ja'far Pouyandeh murdered (Chain murders of Iran)
+1998-12-03    Mohammad Mokhtari murdered (Chain murders of Iran)
+1998-11-22    Dariush Forouhar and Parvaneh Forouhar assassinated (Chain murders of Iran)
+1998-11-19    Majid Sharif murdered (Chain murders of Iran)
+1998-09-22    Hamid Hajizadeh and his son Karoun were murdered (Chain murders of Iran)
+1998-08-28    Pirouz Davani abducted (Chain murders of Iran)
+1998-08-23    Asadollah Lajevardi assassinated
 1998-08-08    1998 killing of Iranian diplomats in Afghanistan
 1998-04-04    Gholamhossein Karbaschi arrested
 1997-05-23    1997 Iranian presidential election 1376 (2 Khordad) (Khatami vs Nategh-Nouri)
+1997-02-22    Ebrahim Zalzadeh murdered (Chain murders of Iran)
+1997-01-15    Ahmad Tafazzoli murdered (Chain murders of Iran)
 1996-11-05    1996 United States presidential election (Clinton vs Dole)
+1994-11-28    Ali-Akbar Sa'idi Sirjani murdered (Chain murders of Iran)
 1994-06-20    Imam Reza shrine bombing
+1994-06-24    Mehdi Dibaj abducted (Chain murders of Iran)
 1993-06-11    1993 Iranian presidential election 1372 (Rafsanjani vs Tavakkoli)
 1992-11-03    1992 United States presidential election (Clinton vs George H. W. Bush)
-1992-08-07    Fereydoun Farrokhzad assassinated
+1992-09-17    Mykonos restaurant assassinations (Chain murders of Iran)
+1992-08-07    Fereydoun Farrokhzad assassinated (Chain murders of Iran)
 1991-12-26    Cold War end
-1991-08-06    Shapour Bakhtiar murdered
+1991-08-06    Shapour Bakhtiar murdered (Chain murders of Iran)
 1989-11-09    Berlin Wall destruction
 1989-10-02    George Hotz birthday
 1989-07-28    1989 Iranian presidential election 1368 (Rafsanjani vs Sheibani)
+1989-07-13    Abdul Rahman Ghassemlou (Chain murders of Iran)
 1989-06-03    1989 Tiananmen Square Massacre
 1989-06-03    Khomeini died
+1988-11-23    Kazem Sami murdered (Chain murders of Iran)
 1988-11-08    1988 United States presidential election (George H. W. Bush vs Dukakis)
 1988-08-20    Iran–Iraq War ended
 1988-07       1988 executions of Iranian political prisoners
@@ -116,9 +132,9 @@ Timeline of important historical events
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
-1981-08-30    1981 Iranian Prime Minister's office bombing
+1981-08-30    1981 Iranian Prime Minister's office bombing (Rajai, Bahonar, ...)
 1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
-1981-06-28    Haft-e Tir bombing
+1981-06-28    Haft-e Tir bombing (Beheshti, Montazeri, ...)
 1981-01-20    Iran hostage crisis end
 1980-11-04    1980 United States presidential election (Reagan vs Carter)
 1980-09-22    Iraqi invasion of Iran
@@ -131,8 +147,11 @@ Timeline of important historical events
 1979-11-04    Iran hostage crisis begin
 1979-10-22    Shah Pahlavi arrives in the United States for cancer treatment
 1979-09-09    Taleghani died
+1979-04-23    Mohammad-Vali Gharani executed
+1979-04-07    Amir-Abbas Hoveyda executed
 1979-02-01    Khomeini returns to Iran from France after fifteen years of exile
 1979-01-16    Shah Mohammad Reza Pahlavi leaves Iran for exile to Egypt
+1978-09-08    Black Friday (17 Shahrivar 1357)
 1978-08-31    Musa al-Sadr went missing
 1978-08-19    Cinema Rex fire
 1976-11-02    1976 United States presidential election (Carter vs Ford)
@@ -151,6 +170,7 @@ Timeline of important historical events
 1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
 1967-03-05    Mohammad Mosaddegh died
 1967-02-13    Forugh Farrokhzad died
+1965-01-21    Hassan Ali Mansur assassinated
 1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
 1964-01-12    Jeff Bezos birthday
 1963-11-22    John F. Kennedy assassinated
