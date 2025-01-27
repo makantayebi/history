@@ -91,6 +91,8 @@ Timeline of important historical events
 2008-09-15    Lehman Brothers filed for bankruptcy
 2008-04-12    Shiraz bombing killed 14
 2007-02-14    2007 Zahedan bombings
+2006-06-12    Iranian women peacefully protested in Tehran's Hafte Tir Square (22 Khordad 1385)
+2006-03-18    Akbar Ganji released from prison
 2006-03-16    Attack on Tasooki
 2006-03-02    a bomb exploded in Kianpars
 2006-02-27    two bomb exploded in Dezful and Abadan
@@ -101,8 +103,10 @@ Timeline of important historical events
 2005-04-15    2005 Ahvaz unrest
 2004-11-02    2004 United States presidential election (Bush vs Kerry)
 2003-12-26    2003 Bam earthquake
+2003-10-10    Shirin Ebadi was awarded the Nobel Peace Prize
 2003-06-12    2003 Iranian student protests
 2003-03-20    2003 invasion of Iraq
+2003-03-08    Ali-Akbar Mousavi Khoeini speech in parliament
 2002-08-14    Existence of two secret nuclear facilities at Natanz and Arak revealed
 2001-12-02    Enron filed for bankruptcy
 2001-10-07    Operation Enduring Freedom begun in Afghanistan
