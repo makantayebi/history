@@ -61,6 +61,7 @@ Timeline of important historical events
 2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2011-05-02    Osama bin Laden died
+2011-03-11    Fukushima nuclear accident
 2011-02-11    Overthrow of President Hosni Mubarak's 30-year rule in Egypt during the Arab Spring
 2010-06       Stuxnet discovered
 2010-02-23    Abdolmalek Rigi arrested
@@ -106,6 +107,11 @@ Timeline of important historical events
 1988-08-20    Iran–Iraq War ended
 1988-07       1988 executions of Iranian political prisoners
 1988-07-03    Iran Air Flight 655 shot down
+1987-10-19    Black Monday Stock Market Crash
+1987-06-28    Chemical bombing of Sardasht
+1986-11       Iran-Contra affair revealed
+1986-04-26    Chernobyl disaster
+1986-01-28    Space Shuttle Challenger disaster
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
@@ -140,6 +146,7 @@ Timeline of important historical events
 1970-09-28    Gamal Abdel Nasser died
 1969-12-28    Linus Torvalds birthday
 1969-09-09    Jalal Al-e-Ahmad died
+1969-07-16    Apollo 11 launched
 1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
 1967-03-05    Mohammad Mosaddegh died
 1967-02-13    Forugh Farrokhzad died
@@ -183,6 +190,7 @@ Timeline of important historical events
 1945-09-02    World War II (end)
 1945-08-09    Atomic bombing of Nagasaki
 1945-08-06    Atomic bombing of Hiroshima
+1945-07-16    Trinity Test, the first atomic bomb detonation
 1945-04-30    Adolf Hitler died
 1945-04-28    Benito Mussolini died
 1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
