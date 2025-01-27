@@ -373,8 +373,8 @@ Timeline of important historical events
 1207-09-30    Rumi birthday
 1201-02-24    Nasir al-Din al-Tusi birthday
 1170          Leonardo Fibonacci birthday
-1048-05-18    Omar Khayyam birthday
 1141          Nizami Ganjavi birthday
+1048-05-18    Omar Khayyam birthday
  973-09-09    Al-Biruni birthday
  940          Ferdowsi birthday
  868          Muhammad al-Mahdi (12th Shia Imam) birthday
