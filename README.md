@@ -66,11 +66,13 @@ Timeline of important historical events
 2017-01-08    Akbar Hashemi Rafsanjani died
 2016-11-08    2016 United States presidential election (Trump vs Hillary)
 2016-01-16    JCPOA took effect
+2016-01-12    2016 U.S.–Iran naval incident
 2015-09-30    Russian intervention in the Syrian civil war supporting the Assad regime
 2015-07-14    JCPOA signed
 2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2012-05-28    Flame (malware) discovered
+2012-02-14    Facebook, Twitter blocked in Iran
 2011-05-02    Osama bin Laden died
 2011-04-15    2011 Khuzestan protests
 2011-03-11    Fukushima nuclear accident
