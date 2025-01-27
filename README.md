@@ -1,5 +1,6 @@
 # history
 Timeline of important historical events
+> History doesn't repeat itself, but it often rhymes
 
 ```
 2025-01-20    DeepSeek-R1 launched
