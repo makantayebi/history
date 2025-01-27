@@ -39,9 +39,11 @@ Timeline of important historical events
 2020-11-27    Mohsen Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
 2020-10-08    Mohammad-Reza Shajarian died
+2020-09-12    Navid Afkari executed
 2020-04-10    Ali Younesi and Amirhossein Moradi arrested
 2020-03-11    COVID-19 pandemic begin
 2020-01-30    COVID-19 outbreak
+2020-01-11    Protests took place in Tehran
 2020-01-08    Iran missile attacks on U.S. bases in Iraq and Ukraine Flight 752 shot down
 2020-01-03    Qasem Kotlet died
 2019-11-16    2019 Internet blackout in Iran
@@ -49,9 +51,15 @@ Timeline of important historical events
 2019-11-15    Bloody Aban 98
 2019-06-20    US drone shot down by Iran over the Strait of Hormuz
 2019-04-27    Behrooz Hajilu incident
+2018-09-22    Ahvaz military parade attack
+2018-08-01    August 2018 uprising in Iran
 2018-05-08    Trump announced U.S. withdrawal from JCPOA
+2018-03-28    2018 Khuzestan protests
 2018-02-22    Maryam Shariatmadari protest
 2018-02-15    Azam Jangravi protest
+2018-01-03    Pro-government rally in several Iranian cities
+2017-12-31    Anti-government protests in Tehran
+2017-12-28    2017–2018 Iranian protests
 2017-12-27    Vida Movahed removed her headscarf and stood on a utility box
 2017-05-19    2017 Iranian presidential election 1396 (Rouhani vs Raisi)
 2017-01-08    Akbar Hashemi Rafsanjani died
@@ -63,21 +71,34 @@ Timeline of important historical events
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2012-05-28    Flame (malware) discovered
 2011-05-02    Osama bin Laden died
+2011-04-15    2011 Khuzestan protests
 2011-03-11    Fukushima nuclear accident
+2011-02-14    2011–2012 Iranian protests (Sane Jaleh died)
 2011-02-11    Overthrow of President Hosni Mubarak's 30-year rule in Egypt during the Arab Spring
 2010-06       Stuxnet discovered
 2010-02-23    Abdolmalek Rigi arrested
+2009-12-30    30 December 2009 Iranian pro-government rallies (9 Dey 1388)
 2009-12-19    Hussein-Ali Montazeri died
 2009-06-20    Neda Agha-Soltan fatally shot
+2009-06-19    Ali Khamenei backs election result in Friday prayer
 2009-06-15    Sohrab Aarabi died
 2009-06-12    2009 Iranian presidential election 1388 (Ahmadinejad vs Mousavi)
 2009-01-09    Bitcoin initial release
 2008-11-04    2008 United States presidential election (Obama vs McCain)
 2008-09-15    Lehman Brothers filed for bankruptcy
 2008-04-12    Shiraz bombing killed 14
+2007-02-14    2007 Zahedan bombings
+2006-03-16    Attack on Tasooki
+2006-03-02    a bomb exploded in Kianpars
+2006-02-27    two bomb exploded in Dezful and Abadan
+2006-01-25    two bomb exploded in Ahvaz
+2005-10-15    two bomb exploded in Ahvaz
 2005-06-17    2005 Iranian presidential election 1384 (Ahmadinejad vs Rafsanjani)
+2005-06-12    four bombs exploded in Ahvaz
+2005-04-15    2005 Ahvaz unrest
 2004-11-02    2004 United States presidential election (Bush vs Kerry)
 2003-12-26    2003 Bam earthquake
+2003-06-12    2003 Iranian student protests
 2003-03-20    2003 invasion of Iraq
 2002-08-14    Existence of two secret nuclear facilities at Natanz and Arak revealed
 2001-12-02    Enron filed for bankruptcy
@@ -88,7 +109,7 @@ Timeline of important historical events
 2000-04-07    Iran After the Elections conference (Berlin Conference)
 2000-03-12    Saeed Hajjarian assassination attempt
 2000-02-18    2000 Iranian legislative election
-1999-07-07    1999 Iranian student protests 1378 (18th of Tir)
+1999-07-07    Kuye Daneshgah Disaster (18 Tir 1378)
 1999-06-19    Saeed Emami died
 1999-04-10    Ali Sayad Shirazi assassinated
 1998-12-08    Mohammad-Ja'far Pouyandeh murdered (Chain murders of Iran)
@@ -113,12 +134,14 @@ Timeline of important historical events
 1992-08-07    Fereydoun Farrokhzad assassinated (Chain murders of Iran)
 1991-12-26    Cold War end
 1991-08-06    Shapour Bakhtiar murdered (Chain murders of Iran)
+1990-06-21    1990 Manjil–Rudbar earthquake
 1989-11-09    Berlin Wall destruction
 1989-10-02    George Hotz birthday
 1989-07-28    1989 Iranian presidential election 1368 (Rafsanjani vs Sheibani)
 1989-07-13    Abdul Rahman Ghassemlou (Chain murders of Iran)
 1989-06-03    1989 Tiananmen Square Massacre
 1989-06-03    Khomeini died
+1989-03-26    Khomeini strongly denounced Montazeri's actions
 1988-11-23    Kazem Sami murdered (Chain murders of Iran)
 1988-11-08    1988 United States presidential election (George H. W. Bush vs Dukakis)
 1988-08-20    Iran–Iraq War ended
@@ -135,6 +158,7 @@ Timeline of important historical events
 1981-08-30    1981 Iranian Prime Minister's office bombing (Rajai, Bahonar, ...)
 1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
 1981-06-28    Haft-e Tir bombing (Beheshti, Montazeri, ...)
+1981-06-20    20 June 1981 Iranian protests (30 Khordad 1360)
 1981-01-20    Iran hostage crisis end
 1980-11-04    1980 United States presidential election (Reagan vs Carter)
 1980-09-22    Iraqi invasion of Iran
@@ -174,6 +198,7 @@ Timeline of important historical events
 1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
 1964-01-12    Jeff Bezos birthday
 1963-11-22    John F. Kennedy assassinated
+1963-06-05    1963 demonstrations in Iran (15 Khordad 1342)
 1963-01-26    The White Revolution or the Shah and People Revolution
 1961-08-13    Berlin Wall construction
 1960-11-08    1960 United States presidential election (Kennedy vs Nixon)
@@ -405,3 +430,6 @@ Timeline of important historical events
 
 * https://en.wikipedia.org/wiki/List_of_monarchs_of_Iran
 * https://en.wikipedia.org/wiki/List_of_richest_Americans_in_history
+* https://en.wikipedia.org/wiki/2011%E2%80%932012_Iranian_protests
+* https://en.wikipedia.org/wiki/2017%E2%80%932018_Iranian_protests
+* https://en.wikipedia.org/wiki/2019%E2%80%932020_Iranian_protests
