@@ -28,14 +28,15 @@ const Timeline = () => {
     // Function to fetch and read the CSV file
     const fetchCSV = async () => {
       try {
-        const response = await fetch("history/data.csv"); // Path to the CSV file in the public folder
+        const response = await fetch("/data.csv"); // Path to the CSV file in the public folder
   
         if (!response.ok) {
           throw new Error('Failed to fetch CSV file');
         }
   
         const text = await response.text();  // Read the CSV file as text
-        setHistoricEvents(csvToJson(text));  // Set the content of the CSV to state
+        setHistoricEvents((text));  // Set the content of the CSV to state
+        // setHistoricEvents(csvToJson(text));  // Set the content of the CSV to state
       } catch (err) {
         setError('Error fetching CSV file');
         console.error(err);
@@ -48,6 +49,7 @@ const Timeline = () => {
 
   return (
   <>
+    {console.log("csv file data: " + JSON.stringify(historicEvents))}
     {/* Vertical line */}
     <div className="timess"></div>
         <div className="container mt-5 w-75 bg-white p-4 border rounded shadow">
