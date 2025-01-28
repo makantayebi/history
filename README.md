@@ -3,7 +3,7 @@ Timeline of important historical events
 > History doesn't repeat itself, but it often rhymes
 
 ```
-2025-01-20    DeepSeek-R1 launched
+2025-01-20    Trump returns and DeepSeek-R1 launched
 2025-01-18    2025 assassination of Iranian Supreme Court judges
 2024-12-26    DeepSeek-V3 launched
 2024-12-08    Fall of the Assad regime
@@ -34,9 +34,12 @@ Timeline of important historical events
 2022-09-21    Hadis Najafi died
 2022-09-20    Nika Shakarami and Minoo Majidi died
 2022-09-16    Mahsa (Jina) Amini died
+2022-05-23    Metropol building collapse in Abadan
 2022-04-05    Imam Reza shrine stabbings
 2021-09-12    Toomaj Salehi arrested
 2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
+2021-01-06    January 6 United States Capitol attack
+2020-12       COVID-19 vaccines authorized for emergency use
 2020-11-27    Mohsen Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
 2020-10-08    Mohammad-Reza Shajarian died
@@ -47,6 +50,7 @@ Timeline of important historical events
 2020-01-11    Protests took place in Tehran
 2020-01-08    Iran missile attacks on U.S. bases in Iraq and Ukraine Flight 752 shot down
 2020-01-03    Qasem Kotlet died
+2019-12       SARS-CoV-2 leaked
 2019-11-16    2019 Internet blackout in Iran
 2019-11-16    Mahshahr massacre
 2019-11-15    Bloody Aban 98
@@ -58,11 +62,13 @@ Timeline of important historical events
 2018-03-28    2018 Khuzestan protests
 2018-02-22    Maryam Shariatmadari protest
 2018-02-15    Azam Jangravi protest
+2018-01-06    Sanchi oil tanker collision
 2018-01-03    Pro-government rally in several Iranian cities
 2017-12-31    Anti-government protests in Tehran
 2017-12-28    2017–2018 Iranian protests
 2017-12-27    Vida Movahed removed her headscarf and stood on a utility box
 2017-05-19    2017 Iranian presidential election 1396 (Rouhani vs Raisi)
+2017-01-19    Plasco building collapsed
 2017-01-08    Akbar Hashemi Rafsanjani died
 2016-11-08    2016 United States presidential election (Trump vs Hillary)
 2016-01-16    JCPOA took effect
@@ -102,11 +108,13 @@ Timeline of important historical events
 2005-06-12    four bombs exploded in Ahvaz
 2005-04-15    2005 Ahvaz unrest
 2004-11-02    2004 United States presidential election (Bush vs Kerry)
+2004-02-18    Nishapur train disaster
 2003-12-26    2003 Bam earthquake
 2003-10-10    Shirin Ebadi was awarded the Nobel Peace Prize
 2003-06-12    2003 Iranian student protests
 2003-03-20    2003 invasion of Iraq
 2003-03-08    Ali-Akbar Mousavi Khoeini speech in parliament
+2002-11-16    2002–2004 SARS-CoV-1 outbreak began in China
 2002-08-14    Existence of two secret nuclear facilities at Natanz and Arak revealed
 2001-12-02    Enron filed for bankruptcy
 2001-10-07    Operation Enduring Freedom begun in Afghanistan
@@ -162,6 +170,7 @@ Timeline of important historical events
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
+1981-09-29    1981 Iranian Air Force C-130 crash
 1981-08-30    1981 Iranian Prime Minister's office bombing (Rajai, Bahonar, ...)
 1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
 1981-06-28    Haft-e Tir bombing (Beheshti, Montazeri, ...)
@@ -298,6 +307,7 @@ Timeline of important historical events
 1913-11-07    Albert Camus birthday
 1912-11-05    1912 United States presidential election (Wilson vs Taft)
 1912-06-23    Alan Turing birthday
+1909-04-30    Russian occupation of Tabriz
 1909-04-14    Anglo-Persian Oil Company founded
 1908-05-26    William Knox D'Arcy, a British-Australian, discover oil in southwestern Persia
 1908-04-01    Abraham Maslow birthday
@@ -369,6 +379,7 @@ Timeline of important historical events
 1353          Black Death plague pandemic end
 1346          Black Death plague pandemic begin
 1315          Hafez birthday
+1219          Mongol invasion of Persia and Mesopotamia
 1210          Saadi Shirazi birthday
 1207-09-30    Rumi birthday
 1201-02-24    Nasir al-Din al-Tusi birthday
@@ -425,6 +436,7 @@ Timeline of important historical events
 -428          Plato
 -470          Socrates
 -535          Heraclitus
+-539-10-29    Cyrus entered Babylon
 -550          Darius the Great
 -551          Confucius
 -570          Pythagoras
