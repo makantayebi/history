@@ -3,7 +3,7 @@ Timeline of important historical events
 > History doesn't repeat itself, but it often rhymes
 
 ```
-2025-01-20    DeepSeek-R1 launched
+2025-01-20    Trump returns and DeepSeek-R1 launched
 2025-01-18    2025 assassination of Iranian Supreme Court judges
 2024-12-26    DeepSeek-V3 launched
 2024-12-08    Fall of the Assad regime
@@ -34,9 +34,12 @@ Timeline of important historical events
 2022-09-21    Hadis Najafi died
 2022-09-20    Nika Shakarami and Minoo Majidi died
 2022-09-16    Mahsa (Jina) Amini died
+2022-05-23    Metropol building collapse in Abadan
 2022-04-05    Imam Reza shrine stabbings
 2021-09-12    Toomaj Salehi arrested
 2021-06-18    2021 Iranian presidential election 1400 (Raisi vs Hemmati)
+2021-01-06    January 6 United States Capitol attack
+2020-12       COVID-19 vaccines authorized for emergency use
 2020-11-27    Mohsen Fakhrizadeh died
 2020-11-03    2020 United States presidential election (Biden vs Trump)
 2020-10-08    Mohammad-Reza Shajarian died
@@ -47,6 +50,7 @@ Timeline of important historical events
 2020-01-11    Protests took place in Tehran
 2020-01-08    Iran missile attacks on U.S. bases in Iraq and Ukraine Flight 752 shot down
 2020-01-03    Qasem Kotlet died
+2019-12       SARS-CoV-2 leaked
 2019-11-16    2019 Internet blackout in Iran
 2019-11-16    Mahshahr massacre
 2019-11-15    Bloody Aban 98
@@ -58,17 +62,20 @@ Timeline of important historical events
 2018-03-28    2018 Khuzestan protests
 2018-02-22    Maryam Shariatmadari protest
 2018-02-15    Azam Jangravi protest
+2018-01-06    Sanchi oil tanker collision
 2018-01-03    Pro-government rally in several Iranian cities
 2017-12-31    Anti-government protests in Tehran
 2017-12-28    2017–2018 Iranian protests
 2017-12-27    Vida Movahed removed her headscarf and stood on a utility box
 2017-05-19    2017 Iranian presidential election 1396 (Rouhani vs Raisi)
+2017-01-19    Plasco building collapsed
 2017-01-08    Akbar Hashemi Rafsanjani died
 2016-11-08    2016 United States presidential election (Trump vs Hillary)
 2016-01-16    JCPOA took effect
 2016-01-12    2016 U.S.–Iran naval incident
 2015-09-30    Russian intervention in the Syrian civil war supporting the Assad regime
 2015-07-14    JCPOA signed
+2014
 2013-06-14    2013 Iranian presidential election 1392 (Rouhani vs Ghalibaf)
 2012-11-06    2012 United States presidential election (Obama vs Romney)
 2012-05-28    Flame (malware) discovered
@@ -102,11 +109,13 @@ Timeline of important historical events
 2005-06-12    four bombs exploded in Ahvaz
 2005-04-15    2005 Ahvaz unrest
 2004-11-02    2004 United States presidential election (Bush vs Kerry)
+2004-02-18    Nishapur train disaster
 2003-12-26    2003 Bam earthquake
 2003-10-10    Shirin Ebadi was awarded the Nobel Peace Prize
 2003-06-12    2003 Iranian student protests
 2003-03-20    2003 invasion of Iraq
 2003-03-08    Ali-Akbar Mousavi Khoeini speech in parliament
+2002-11-16    2002–2004 SARS-CoV-1 outbreak began in China
 2002-08-14    Existence of two secret nuclear facilities at Natanz and Arak revealed
 2001-12-02    Enron filed for bankruptcy
 2001-10-07    Operation Enduring Freedom begun in Afghanistan
@@ -132,6 +141,7 @@ Timeline of important historical events
 1997-02-22    Ebrahim Zalzadeh murdered (Chain murders of Iran)
 1997-01-15    Ahmad Tafazzoli murdered (Chain murders of Iran)
 1996-11-05    1996 United States presidential election (Clinton vs Dole)
+1995
 1994-11-28    Ali-Akbar Sa'idi Sirjani murdered (Chain murders of Iran)
 1994-06-20    Imam Reza shrine bombing
 1994-06-24    Mehdi Dibaj abducted (Chain murders of Iran)
@@ -161,13 +171,21 @@ Timeline of important historical events
 1986-01-28    Space Shuttle Challenger disaster
 1985-08-16    1985 Iranian presidential election (Khamenei vs Kashani)
 1984-11-06    1984 United States presidential election (Reagan vs Mondale)
+1983
+1982
+1981-12-15    1981 Iraqi embassy bombing in Beirut
 1981-10-02    October 1981 Iranian presidential election (Khamenei vs Parvaresh)
+1981-09-29    1981 Iranian Air Force C-130 crash
 1981-08-30    1981 Iranian Prime Minister's office bombing (Rajai, Bahonar, ...)
 1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
 1981-06-28    Haft-e Tir bombing (Beheshti, Montazeri, ...)
 1981-06-20    20 June 1981 Iranian protests (30 Khordad 1360)
+1981-06-07    Operation Opera (Israel destroyed Iraqi nuclear reactor)
+1981-04-04    H-3 airstrike
 1981-01-20    Iran hostage crisis end
+1980-11-27    Operation Morvarid
 1980-11-04    1980 United States presidential election (Reagan vs Carter)
+1980-09-30    Operation Scorch Sword (Iran attacked Baghdad Nuclear Research Facility)
 1980-09-22    Iraqi invasion of Iran
 1980-07-27    Shah Mohammad Reza Pahlavi dies in Cairo, Egypt, after a cancer operation
 1980-04-24    Operation Eagle Claw (Tabas) failed
@@ -185,6 +203,7 @@ Timeline of important historical events
 1978-09-08    Black Friday (17 Shahrivar 1357)
 1978-08-31    Musa al-Sadr went missing
 1978-08-19    Cinema Rex fire
+1977
 1976-11-02    1976 United States presidential election (Carter vs Ford)
 1976-09-09    Mao Zedong died
 1975-04-30    Vietnam War end
@@ -201,14 +220,18 @@ Timeline of important historical events
 1968-11-05    1968 United States presidential election (Nixon vs Humphrey)
 1967-03-05    Mohammad Mosaddegh died
 1967-02-13    Forugh Farrokhzad died
+1966
 1965-01-21    Hassan Ali Mansur assassinated
 1964-11-03    1964 United States presidential election (Johnson vs Goldwater)
 1964-01-12    Jeff Bezos birthday
 1963-11-22    John F. Kennedy assassinated
 1963-06-05    1963 demonstrations in Iran (15 Khordad 1342)
 1963-01-26    The White Revolution or the Shah and People Revolution
+1962
 1961-08-13    Berlin Wall construction
 1960-11-08    1960 United States presidential election (Kennedy vs Nixon)
+1959
+1958
 1957-12-04    Eric S. Raymond birthday
 1956-11-06    1956 United States presidential election (Eisenhower vs Stevenson)
 1956-07-30    Nasser announces the nationalisation of the Suez Canal
@@ -249,6 +272,7 @@ Timeline of important historical events
 1944-11-07    1944 United States presidential election (Roosevelt vs Dewey)
 1944-07-26    Reza Shah Pahlavi died
 1944          Bretton Woods international monetary agreement
+1943
 1942-01-08    Stephen Hawking birthday
 1942          Iranian famine of 1942–1943
 1941-09-16    Reza Shah Pahlavi of Iran abdicated in favor of his son, Mohammad Reza Pahlavi
@@ -277,9 +301,11 @@ Timeline of important historical events
 1928-06-13    John Forbes Nash Jr. birthday
 1927-10-14    Turkish Petroleum Company struck oil in Iraq
 1927-09-04    John McCarthy birthday
-1827-03-26    Ludwig van Beethoven died in Vienna #music
+1926
 1925-12-15    Reza Pahlavi officially crowned as the Shah of Iran
 1924-01-21    Vladimir Lenin died
+1923
+1922
 1921-02-22    1921 Persian coup d'état (3 Esfand 1299)
 1920-04       1918 Spanish flu end
 1919-10-26    Mohammad Reza Pahlavi birthday
@@ -290,6 +316,7 @@ Timeline of important historical events
 1918-02       1918 Spanish flu begin
 1917-04-02    United States declaration of war on Germany
 1917          Persian famine of 1917–1919
+1916
 1915-12-27    Battle of Robat Karim
 1914-08-04    United Kingdom declaration of war upon Germany
 1914-07-28    World War I (begin)
@@ -298,15 +325,22 @@ Timeline of important historical events
 1913-11-07    Albert Camus birthday
 1912-11-05    1912 United States presidential election (Wilson vs Taft)
 1912-06-23    Alan Turing birthday
+1911
+1910
+1909-04-30    Russian occupation of Tabriz
 1909-04-14    Anglo-Persian Oil Company founded
 1908-05-26    William Knox D'Arcy, a British-Australian, discover oil in southwestern Persia
 1908-04-01    Abraham Maslow birthday
 1907-08-31    Anglo-Russian Convention of 1907
 1907          1907 Bankers' Panic or Knickerbocker Crisis
 1906-08-05    Constitutional monarchy established by Mozaffar ad-Din Shah Qajar
+1905
+1904
 1903-12-28    John von Neumann birthday
 1903-02-17    Sadegh Hedayat birthday
+1902
 1901-04-13    Jacques Lacan birthday
+1900
 1896-05-01    Naser al-Din Shah assassinated
 1889-04-20    Adolf Hitler birthday
 1883-07-03    Franz Kafka birthday
@@ -332,6 +366,7 @@ Timeline of important historical events
 1835-11-25    Andrew Carnegie birthday
 1828-09-09    Leo Tolstoy birthday
 1828-02-22    Treaty of Turkmenchay
+1827-03-26    Ludwig van Beethoven died in Vienna #music
 1826-09-17    Bernhard Riemann birthday
 1821-11-11    Fyodor Dostoevsky birthday
 1821-05-05    Napoleon Bonaparte died
@@ -342,6 +377,7 @@ Timeline of important historical events
 1813-10-24    Treaty of Gulistan
 1809-02-12    Charles Darwin birthday
 1807-01-09    Amir Kabir birthday
+1800
 1799-06-06    Alexander Pushkin birthday
 1791-12-05    Wolfgang Amadeus Mozart died in Vienna #music
 1791-09-22    Michael Faraday birthday
@@ -356,25 +392,34 @@ Timeline of important historical events
 1712-06-28    Jean-Jacques Rousseau birthday
 1707-04-15    Leonhard Euler birthday
 1706-01-17    Benjamin Franklin birthday
+1700
 1646-07-01    Gottfried Wilhelm Leibniz birthday
 1643-01-04    Isaac Newton birthday
 1632-08-29    John Locke birthday
+1600
 1564-04-23    William Shakespeare birthday
 1564-02-15    Galileo Galilei birthday
 1547-02-18    Sheikh Bahāʾi birthday
 1524-05-23    Shah Ismail I died
+1500
 1492-10-12    Christopher Columbus discovered the New World
 1473-02-19    Nicolaus Copernicus birthday
 1440          Invention of the printing press
+1400
 1353          Black Death plague pandemic end
 1346          Black Death plague pandemic begin
 1315          Hafez birthday
+1300
+1219          Mongol invasion of Persia and Mesopotamia
 1210          Saadi Shirazi birthday
 1207-09-30    Rumi birthday
 1201-02-24    Nasir al-Din al-Tusi birthday
+1200
 1170          Leonardo Fibonacci birthday
 1141          Nizami Ganjavi birthday
+1100
 1048-05-18    Omar Khayyam birthday
+1000
  973-09-09    Al-Biruni birthday
  940          Ferdowsi birthday
  868          Muhammad al-Mahdi (12th Shia Imam) birthday
@@ -425,6 +470,7 @@ Timeline of important historical events
 -428          Plato
 -470          Socrates
 -535          Heraclitus
+-539-10-29    Cyrus entered Babylon
 -550          Darius the Great
 -551          Confucius
 -570          Pythagoras
