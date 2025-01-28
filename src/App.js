@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Timeline from './Timeline';
+import Timeline from './component/timeline/Timeline';
 
 function App() {
   return (

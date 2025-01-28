@@ -1,0 +1,9 @@
+.timess {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 4px;
+    background-color: black;
+    z-index: 1
+}
