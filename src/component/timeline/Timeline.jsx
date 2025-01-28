@@ -1,7 +1,7 @@
 import React, { useState , useEffect} from 'react';
 import './Timeline.css';
 
-// read and parse CSV
+// Read and parse CSV
 function csvToJson(csvContent) {
 
     // Split the CSV content by lines
@@ -17,26 +17,22 @@ function csvToJson(csvContent) {
         // Add the row as a JSON object to the array
         jsonData.push({ date: rawDate, title: title.trim() });
     });
-    console.log(JSON.stringify(jsonData))
     return jsonData;
 }
-const resourceUrl = `${process.env.REACT_APP_HOMEPAGE}data.csv`;
 
 const Timeline = () => {
     const [historicEvents, setHistoricEvents] = useState('');
     const [error, setError] = useState('');
-    console.log("resource: " + resourceUrl);
     // Function to fetch and read the CSV file
     const fetchCSV = async () => {
       try {
-        const response = await fetch(resourceUrl); // Path to the CSV file in the public folder
+        const response = await fetch("/history/data.csv"); // Path to the CSV file in the public folder
 
         if (!response.ok) {
           throw new Error('Failed to fetch CSV file');
         }
 
         const text = await response.text();  // Read the CSV file as text
-        // setHistoricEvents(text);  // Set the content of the CSV to state
         setHistoricEvents(csvToJson(text));  // Set the content of the CSV to state
       } catch (err) {
         setError('Error fetching CSV file');
@@ -50,7 +46,6 @@ const Timeline = () => {
 
   return (
   <>
-    {/* {console.log("csv file data: " + JSON.stringify(historicEvents))} */}
     {/* Vertical line */}
     <div className="timeline"></div>
       <div className="container mt-5 w-75 bg-white p-4 border rounded shadow">
@@ -78,7 +73,7 @@ const Timeline = () => {
           ))}
           </div>
         </div>
-        {(!historicEvents || error) && <div class="alert alert-danger">error</div>}
+        {(!historicEvents || error) && <div className="alert alert-danger">error</div>}
       </div>
     </>
   );
