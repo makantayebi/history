@@ -20,23 +20,24 @@ function csvToJson(csvContent) {
     console.log(JSON.stringify(jsonData))
     return jsonData;
 }
+const resourceUrl = `${process.env.REACT_APP_HOMEPAGE}data.csv`;
 
 const Timeline = () => {
     const [historicEvents, setHistoricEvents] = useState('');
     const [error, setError] = useState('');
-
+    console.log("resource: " + resourceUrl);
     // Function to fetch and read the CSV file
     const fetchCSV = async () => {
       try {
-        const response = await fetch("/data.csv"); // Path to the CSV file in the public folder
-  
+        const response = await fetch(resourceUrl); // Path to the CSV file in the public folder
+
         if (!response.ok) {
           throw new Error('Failed to fetch CSV file');
         }
-  
+
         const text = await response.text();  // Read the CSV file as text
-        setHistoricEvents((text));  // Set the content of the CSV to state
-        // setHistoricEvents(csvToJson(text));  // Set the content of the CSV to state
+        // setHistoricEvents(text);  // Set the content of the CSV to state
+        setHistoricEvents(csvToJson(text));  // Set the content of the CSV to state
       } catch (err) {
         setError('Error fetching CSV file');
         console.error(err);
@@ -49,38 +50,36 @@ const Timeline = () => {
 
   return (
   <>
-    {console.log("csv file data: " + JSON.stringify(historicEvents))}
+    {/* {console.log("csv file data: " + JSON.stringify(historicEvents))} */}
     {/* Vertical line */}
-    <div className="timess"></div>
-        <div className="container mt-5 w-75 bg-white p-4 border rounded shadow">
-            <div className="row">
-                {/* Timeline container */}
-                <div className="col-12 text-start position-relative">
-                
-                {/* Event List */}
-                {historicEvents.map((event, index) => (
-                    <div
-                    key={index}
-                    className={`col-4 w-40 mb-3 ms-0 bg-secondary text-white p-2 rounded ${
-                        index % 2 === 0 ? "me-auto" : "ms-auto"
-                    }`}
-                    >
+    <div className="timeline"></div>
+      <div className="container mt-5 w-75 bg-white p-4 border rounded shadow">
+        <div className="row">
+          <div className="col-12 text-start position-relative">
+          {/* Event List */}
+          {historicEvents && historicEvents.map((event, index) => (
+              <div
+              key={index}
+              className={`col-4 w-40 mb-3 ms-0 bg-secondary text-white p-2 rounded ${
+                  index % 2 === 0 ? "me-auto" : "ms-auto"
+              }`}
+              >
 
-                    {/* Event content */}
-                    <div
-                        className={`timeline-content ms-4 ${
-                        index % 2 === 0 ? "me-4" : "ms-4"
-                        } p-3 rounded`}
-                    >
-                        <h5>{event.title}</h5>
-                        <p>{new Date(event.date).toLocaleDateString()}</p>
-                    </div>
-                    </div>
-                ))}
-                </div>
-            </div>
-            {error && <div class="alert alert-danger">error</div>}
+              {/* Event content */}
+              <div
+                  className={`timeline-content ms-4 ${
+                  index % 2 === 0 ? "me-4" : "ms-4"
+                  } p-3 rounded`}
+              >
+                  <h5>{event.title}</h5>
+                  <p>{new Date(event.date).toLocaleDateString()}</p>
+              </div>
+              </div>
+          ))}
+          </div>
         </div>
+        {(!historicEvents || error) && <div class="alert alert-danger">error</div>}
+      </div>
     </>
   );
 };
