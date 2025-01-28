@@ -1,5 +1,6 @@
 .timeline {
-    position: absolute;
+    position: fixed;
+    height: 100%;
     top: 0;
     bottom: 0;
     left: 50%;
