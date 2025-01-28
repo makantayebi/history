@@ -175,7 +175,9 @@ Timeline of important historical events
 1981-07-24    July 1981 Iranian presidential election (Rajai vs Sheibani)
 1981-06-28    Haft-e Tir bombing (Beheshti, Montazeri, ...)
 1981-06-20    20 June 1981 Iranian protests (30 Khordad 1360)
+1981-04-04    H-3 airstrike
 1981-01-20    Iran hostage crisis end
+1980-11-27    Operation Morvarid
 1980-11-04    1980 United States presidential election (Reagan vs Carter)
 1980-09-22    Iraqi invasion of Iran
 1980-07-27    Shah Mohammad Reza Pahlavi dies in Cairo, Egypt, after a cancer operation
