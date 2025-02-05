@@ -8,3 +8,12 @@
     background-color: #DDD;
     z-index: 1
 }
+
+.event-line {
+    height: 2px;
+    background-color: black;
+    color: black;
+}
+.title {
+    font-family: "Times New Roman", serif;
+}

@@ -53,23 +53,34 @@ const Timeline = () => {
           <div className="col-12 text-start position-relative">
           {/* Event List */}
           {historicEvents && historicEvents.map((event, index) => (
-              <div
-              key={index}
-              className={`col-4 w-40 mb-3 ms-0 bg-secondary text-white p-2 rounded ${
-                  index % 2 === 0 ? "me-auto" : "ms-auto"
-              }`}
-              >
-
-              {/* Event content */}
-              <div
-                  className={`timeline-content ms-4 ${
-                  index % 2 === 0 ? "me-4" : "ms-4"
-                  } p-3 rounded`}
-              >
-                  <h5>{event.title}</h5>
-                  <p>{new Date(event.date).toLocaleDateString()}</p>
-              </div>
-              </div>
+            <>
+              {index % 2 === 0 &&
+                <>
+                  <div className="col-6 row me-auto">
+                    <div key={index} className="col-md-6 bg-secondary w-40 mb-3 ms-0 text-white p-2 rounded me-auto" >
+                      <div className = "timeline-content rounded">
+                        <h5 className='title'>{event.title}</h5>
+                        <p>{new Date(event.date).toLocaleDateString()}</p>
+                      </div>
+                    </div>
+                    <div class="col-md-6 event-line my-3 bg-secondary ms-auto"></div>
+                  </div>
+                </>
+              }
+              {index %2===1 &&
+                <>
+                  <div className="col-6 row ms-auto">
+                    <div class="col-md-6 event-line my-3 bg-secondary me-auto"></div>
+                    <div key={index} className="col-6 w-40 mb-3 ms-0 bg-secondary text-white p-2 rounded ms-auto" >
+                      <div className="timeline-content ms-4 p-3 rounded">
+                        <h5 className='title'>{event.title}</h5>
+                        <p>{new Date(event.date).toLocaleDateString()}</p>
+                      </div>
+                    </div>
+                  </div>
+                </>
+              }
+            </>
           ))}
           </div>
         </div>
