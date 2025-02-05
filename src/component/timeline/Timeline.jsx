@@ -48,7 +48,7 @@ const Timeline = () => {
   <>
     {/* Vertical line */}
     <div className="timeline"></div>
-      <div className="container mt-5 w-75 bg-white p-4 border rounded shadow">
+      <div className="container timeframe mt-5 w-75 bg-white p-4 border rounded shadow">
         <div className="row">
           <div className="col-12 text-start position-relative">
           {/* Event List */}

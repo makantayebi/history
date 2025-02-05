@@ -4,7 +4,7 @@
     top: 0;
     bottom: 0;
     left: 50%;
-    width: 5px;
+    width: 3px;
     background-color: #DDD;
     z-index: 1
 }
@@ -16,4 +16,11 @@
 }
 .title {
     font-family: "Times New Roman", serif;
+}
+.timeframe{
+    margin-top:0 !important;
+    margin-bottom: 0 !important;
+    border-top: none !important;
+    border-bottom: none !important;
+    border-radius:0% !important;
 }
